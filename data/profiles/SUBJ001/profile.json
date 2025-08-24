@@ -1,0 +1,18 @@
+{
+    "subject_id": "SUBJ001",
+    "demographics": {
+        "name": "Jane Doe",
+        "age": 28,
+        "gender": "Female",
+        "dominant_hand": "Right",
+        "height_cm": 170,
+        "weight_kg": 65
+    },
+    "calibration_data": {
+        "emg_mvc_date": null,
+        "mocopi_calibration_date": null
+    },
+    "device_specifics": {
+        "polar_h10_id": "Polar H10 12345678"
+    }
+}

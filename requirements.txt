@@ -1,0 +1,8 @@
+bleak
+pandas
+pyarrow
+asyncio
+dearpygui
+scipy
+numpy
+python-osc
